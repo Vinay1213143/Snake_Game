@@ -23,7 +23,7 @@ A classic **Snake Game** developed using **Python Turtle Graphics**. The game in
 
 ## 🐍❌ Game Over
 
-![Gameplay](game_Over.png)
+![Gameplay](gameover.png)
 ---
 
 # ✨ Features
