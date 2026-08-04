@@ -13,13 +13,13 @@ A classic **Snake Game** developed using **Python Turtle Graphics**. The game in
 
 ## 🏁 Game Start
 
-![Game Start](images/start.png)
+![Game Start](start.png)
 
 ---
 
 ## 🎮 Gameplay
 
-![Gameplay](images/gameplay.png)
+![Gameplay](gameplay.png)
 
 ---
 
