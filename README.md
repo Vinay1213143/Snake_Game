@@ -67,9 +67,10 @@ Snake_Game
 │
 ├── snake_game.py
 ├── README.md
-├── images
-│     ├── start.png
-│     └── gameplay.png
+├── start.png
+├── gameplay.png
+├── gameover.png
+
 ```
 
 ---
