@@ -21,6 +21,9 @@ A classic **Snake Game** developed using **Python Turtle Graphics**. The game in
 
 ![Gameplay](gameplay.png)
 
+## 🐍❌ Game Over
+
+![Gameplay](game_over.png)
 ---
 
 # ✨ Features
